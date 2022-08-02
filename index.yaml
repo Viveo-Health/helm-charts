@@ -3,7 +3,7 @@ entries:
   admin-api-develop:
   - apiVersion: v2
     appVersion: 1.4.1-pre.1
-    created: "2022-07-29T17:02:48.407489429Z"
+    created: "2022-08-02T18:32:09.165343949Z"
     digest: 8c842dcfc7fc36d3d6fc14faaaf89d7897f21f3813825aa8846b74e3f9e915ac
     name: admin-api-develop
     type: application
@@ -12,7 +12,7 @@ entries:
     version: 1.4.1-pre.1
   - apiVersion: v2
     appVersion: 1.4.1-pre.0
-    created: "2022-07-29T17:02:48.407131832Z"
+    created: "2022-08-02T18:32:09.164988945Z"
     digest: 13225b99fe67040ebc61d453297e88e66853985ca07b6b40e960699ed2c6969e
     name: admin-api-develop
     type: application
@@ -22,7 +22,7 @@ entries:
   file-service-develop:
   - apiVersion: v2
     appVersion: 7.0.2-pre.1
-    created: "2022-07-29T17:02:48.408509219Z"
+    created: "2022-08-02T18:32:09.166561564Z"
     digest: cadc51391ce454c004d73a4c3d8ac8be651037e4e29fb460bd1bd6fe7f9b040b
     name: file-service-develop
     type: application
@@ -31,7 +31,7 @@ entries:
     version: 7.0.2-pre.1
   - apiVersion: v2
     appVersion: 7.0.2-pre.0
-    created: "2022-07-29T17:02:48.407775326Z"
+    created: "2022-08-02T18:32:09.166291061Z"
     digest: 6a64652dfe77602d919b44394ae501b55a7f2df9b16bdd65531b235ed80fcd45
     name: file-service-develop
     type: application
@@ -41,7 +41,7 @@ entries:
   message-worker-develop:
   - apiVersion: v2
     appVersion: 7.0.2-pre.1
-    created: "2022-07-29T17:02:48.409074414Z"
+    created: "2022-08-02T18:32:09.16706837Z"
     digest: fe5c5586262ffe5f5770d54debb2d6745cffe53e0e318223943aad3492143559
     name: message-worker-develop
     type: application
@@ -50,7 +50,7 @@ entries:
     version: 7.0.2-pre.1
   - apiVersion: v2
     appVersion: 7.0.2-pre.0
-    created: "2022-07-29T17:02:48.408785917Z"
+    created: "2022-08-02T18:32:09.166835067Z"
     digest: 8c16f7f6583d02497fb19b50f0f51b4e94115c9176c7fb2e5090825ff1362da1
     name: message-worker-develop
     type: application
@@ -60,7 +60,7 @@ entries:
   payment-api-develop:
   - apiVersion: v2
     appVersion: 1.3.1-pre.2
-    created: "2022-07-29T17:02:48.409641509Z"
+    created: "2022-08-02T18:32:09.167609677Z"
     digest: 6201b888bf7bd6c7f3d0c91897a51e6cca1eabc7e73da05d77501c5cd4cebcfe
     name: payment-api-develop
     type: application
@@ -69,7 +69,7 @@ entries:
     version: 1.3.1-pre.2
   - apiVersion: v2
     appVersion: 1.3.1-pre.1
-    created: "2022-07-29T17:02:48.409381911Z"
+    created: "2022-08-02T18:32:09.167328473Z"
     digest: 9ade437bf01e19ef199cd996a7b0d9c343930952f76065b3d3e3ab3e124f1348
     name: payment-api-develop
     type: application
@@ -78,8 +78,17 @@ entries:
     version: 1.3.1-pre.1
   simple-api-develop:
   - apiVersion: v2
+    appVersion: 1.8.1-pre.5
+    created: "2022-08-02T18:32:09.168618189Z"
+    digest: 12dd21b1f55d630dd4f913a9f38374be57fe371dc1e57409d81c15623cfb64b7
+    name: simple-api-develop
+    type: application
+    urls:
+    - simple-api-develop-1.8.1-pre.5.tgz
+    version: 1.8.1-pre.5
+  - apiVersion: v2
     appVersion: 1.8.1-pre.4
-    created: "2022-07-29T17:02:48.410352602Z"
+    created: "2022-08-02T18:32:09.168365086Z"
     digest: fbc3411b9d48700521d8eba74392cacb70dae97ab801be04afc82d859e2f08e6
     name: simple-api-develop
     type: application
@@ -88,7 +97,7 @@ entries:
     version: 1.8.1-pre.4
   - apiVersion: v2
     appVersion: 1.8.1-pre.3
-    created: "2022-07-29T17:02:48.410112004Z"
+    created: "2022-08-02T18:32:09.168118083Z"
     digest: a46f4fa375748a2d9e4bc367f0763cfd89de6064606bb6f3fc1ec3b78b3a2ee8
     name: simple-api-develop
     type: application
@@ -97,11 +106,11 @@ entries:
     version: 1.8.1-pre.3
   - apiVersion: v2
     appVersion: 1.8.1-pre.2
-    created: "2022-07-29T17:02:48.409873607Z"
+    created: "2022-08-02T18:32:09.16785548Z"
     digest: 8344a25685a1abed4d8e2bea2a2c945e7102b9a0f53c7bc92892aef7dd8c6857
     name: simple-api-develop
     type: application
     urls:
     - simple-api-develop-1.8.1-pre.2.tgz
     version: 1.8.1-pre.2
-generated: "2022-07-29T17:02:48.406487338Z"
+generated: "2022-08-02T18:32:09.164362637Z"
