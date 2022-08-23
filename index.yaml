@@ -2,20 +2,18 @@ apiVersion: v1
 entries:
   admin-api-develop:
   - apiVersion: v2
-    kubeVersion: '>= 1.16-0'
     appVersion: 1.4.1-pre.1
-    created: "2022-08-02T18:32:09.165343949Z"
-    digest: 8c842dcfc7fc36d3d6fc14faaaf89d7897f21f3813825aa8846b74e3f9e915ac
+    created: "2022-08-23T12:53:36.55628+05:30"
+    digest: eb1d5b2b9eac5a5ad645e6a9020f41962efcc0875f160084eeb5c054c0fd9962
     name: admin-api-develop
     type: application
     urls:
     - admin-api-develop-1.4.1-pre.1.tgz
     version: 1.4.1-pre.1
   - apiVersion: v2
-    kubeVersion: '>= 1.16-0'
     appVersion: 1.4.1-pre.0
-    created: "2022-08-02T18:32:09.164988945Z"
-    digest: 13225b99fe67040ebc61d453297e88e66853985ca07b6b40e960699ed2c6969e
+    created: "2022-08-23T12:53:36.556019+05:30"
+    digest: 4ef3aecf5455ec0721aef4a30e2ba7d2183a9e136bec3cad144804769da8b129
     name: admin-api-develop
     type: application
     urls:
@@ -24,8 +22,8 @@ entries:
   file-service-develop:
   - apiVersion: v2
     appVersion: 7.0.2-pre.1
-    created: "2022-08-02T18:32:09.166561564Z"
-    digest: cadc51391ce454c004d73a4c3d8ac8be651037e4e29fb460bd1bd6fe7f9b040b
+    created: "2022-08-23T12:53:36.557271+05:30"
+    digest: 15dc4dbca0c0c6f049b9c058683dc149c963b9242e0a2df2d0fc2a05968b91b2
     name: file-service-develop
     type: application
     urls:
@@ -33,8 +31,8 @@ entries:
     version: 7.0.2-pre.1
   - apiVersion: v2
     appVersion: 7.0.2-pre.0
-    created: "2022-08-02T18:32:09.166291061Z"
-    digest: 6a64652dfe77602d919b44394ae501b55a7f2df9b16bdd65531b235ed80fcd45
+    created: "2022-08-23T12:53:36.557038+05:30"
+    digest: e4e90406351158aba8650539f024779007f6b94aff974d0cb7de894dc094dac7
     name: file-service-develop
     type: application
     urls:
@@ -43,8 +41,8 @@ entries:
   message-worker-develop:
   - apiVersion: v2
     appVersion: 7.0.2-pre.1
-    created: "2022-08-02T18:32:09.16706837Z"
-    digest: fe5c5586262ffe5f5770d54debb2d6745cffe53e0e318223943aad3492143559
+    created: "2022-08-23T12:53:36.5583+05:30"
+    digest: 5e91756ee3fb9414686d12503b44af7063157f5536e7b0017e0f9b3f8ae149e9
     name: message-worker-develop
     type: application
     urls:
@@ -52,8 +50,8 @@ entries:
     version: 7.0.2-pre.1
   - apiVersion: v2
     appVersion: 7.0.2-pre.0
-    created: "2022-08-02T18:32:09.166835067Z"
-    digest: 8c16f7f6583d02497fb19b50f0f51b4e94115c9176c7fb2e5090825ff1362da1
+    created: "2022-08-23T12:53:36.558088+05:30"
+    digest: 0eb18f059d98ffb839215420a7f2e14bba3af52cb0d48c5f529255ebc1f3233f
     name: message-worker-develop
     type: application
     urls:
@@ -62,8 +60,8 @@ entries:
   payment-api-develop:
   - apiVersion: v2
     appVersion: 1.3.1-pre.2
-    created: "2022-08-02T18:32:09.167609677Z"
-    digest: 6201b888bf7bd6c7f3d0c91897a51e6cca1eabc7e73da05d77501c5cd4cebcfe
+    created: "2022-08-23T12:53:36.559279+05:30"
+    digest: 71d0968b7048eeaf10cf05d0e38644a850a134d67994886bdac19ee1632986e5
     name: payment-api-develop
     type: application
     urls:
@@ -71,8 +69,8 @@ entries:
     version: 1.3.1-pre.2
   - apiVersion: v2
     appVersion: 1.3.1-pre.1
-    created: "2022-08-02T18:32:09.167328473Z"
-    digest: 9ade437bf01e19ef199cd996a7b0d9c343930952f76065b3d3e3ab3e124f1348
+    created: "2022-08-23T12:53:36.559027+05:30"
+    digest: 0c2a77d28a51d13e756e2c43dec34254b5eb19ff4aa0679cc903a82a90ef44b9
     name: payment-api-develop
     type: application
     urls:
@@ -80,18 +78,9 @@ entries:
     version: 1.3.1-pre.1
   simple-api-develop:
   - apiVersion: v2
-    appVersion: 1.8.1-pre.5
-    created: "2022-08-02T18:32:09.168618189Z"
-    digest: 12dd21b1f55d630dd4f913a9f38374be57fe371dc1e57409d81c15623cfb64b7
-    name: simple-api-develop
-    type: application
-    urls:
-    - simple-api-develop-1.8.1-pre.5.tgz
-    version: 1.8.1-pre.5
-  - apiVersion: v2
     appVersion: 1.8.1-pre.4
-    created: "2022-08-02T18:32:09.168365086Z"
-    digest: fbc3411b9d48700521d8eba74392cacb70dae97ab801be04afc82d859e2f08e6
+    created: "2022-08-23T12:53:36.560291+05:30"
+    digest: ebfe2e59a35054c9cbda500906514e9d840ea084a32b005a1db03e0dd584edf5
     name: simple-api-develop
     type: application
     urls:
@@ -99,20 +88,11 @@ entries:
     version: 1.8.1-pre.4
   - apiVersion: v2
     appVersion: 1.8.1-pre.3
-    created: "2022-08-02T18:32:09.168118083Z"
-    digest: a46f4fa375748a2d9e4bc367f0763cfd89de6064606bb6f3fc1ec3b78b3a2ee8
+    created: "2022-08-23T12:53:36.56004+05:30"
+    digest: 958646ecb39c10caa7ab5bfdac15384d65fafc72585c58ee4cb8db5a1028fad6
     name: simple-api-develop
     type: application
     urls:
     - simple-api-develop-1.8.1-pre.3.tgz
     version: 1.8.1-pre.3
-  - apiVersion: v2
-    appVersion: 1.8.1-pre.2
-    created: "2022-08-02T18:32:09.16785548Z"
-    digest: 8344a25685a1abed4d8e2bea2a2c945e7102b9a0f53c7bc92892aef7dd8c6857
-    name: simple-api-develop
-    type: application
-    urls:
-    - simple-api-develop-1.8.1-pre.2.tgz
-    version: 1.8.1-pre.2
-generated: "2022-08-02T18:32:09.164362637Z"
+generated: "2022-08-23T12:53:36.554901+05:30"
